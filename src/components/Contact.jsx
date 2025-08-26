@@ -11,7 +11,7 @@ const Contact = () => {
       id="contact"
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16"
     >
-      <h1 className="text-4xl font-bold text-center mb-10">Contact Me</h1>
+      <h1 className="text-4xl font-bold text-center mb-10 py-20">Contact Me</h1>
 
       <form
         onSubmit={handleSubmit}
