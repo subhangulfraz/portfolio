@@ -22,7 +22,7 @@ It showcases my skills, projects, and experience as a Software Engineering stude
 ---
 
 ## 📸 Preview
-👉 [Live Demo](portfolio-xrcd.vercel.app)  
+👉 [Live Demo](https://portfolio-xrcd.vercel.app)  
 
 ---
 
